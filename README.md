@@ -2,7 +2,9 @@
 
 
 **Training a custom face mask dataset on YOLOv4**
+
 ![picture](https://drive.google.com/uc?id=1U0LwtIafuGFC7eOfP83esCk1yGQTgMB-)
+
 
 # Read all about how this works and how it's done in my Colab notebook
 - https://colab.research.google.com/github/ArianAmani/Mask-Detection/blob/main/Mask_Detection(YoloV4).ipynb
