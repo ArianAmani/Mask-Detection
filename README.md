@@ -1,4 +1,3 @@
-# Mask Detection
 ## _Face Mask Detection with YOLOv4_
 
 
