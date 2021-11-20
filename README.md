@@ -3,7 +3,7 @@
 
 **Training a custom face mask dataset on YOLOv4**
 
-![video](https://drive.google.com/uc?id=1CEs2AhwmbogprAHq2uRepSvjOcRke_p5)
+<img src="/samples/results3-opt.gif?raw=true" width="400px">
 
 
 # Read all about how this works and how it's done in my Colab notebook
@@ -15,4 +15,4 @@
 ## Framework and refrence
 - https://github.com/AlexeyAB/darknet
 
-![video](https://drive.google.com/uc?id=1yNxW-aFhd61azRUyV3mWsY8KA-7bZ1z6)
+<img src="/samples/results1-opt.gif?raw=true" width="400px">
